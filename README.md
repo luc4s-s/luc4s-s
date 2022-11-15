@@ -1,4 +1,4 @@
-## Olá! Eu sou a Lucas Gomes, Desenvolvedor Full-Stack Jr
+## Olá! Eu sou o Lucas Gomes, Desenvolvedor Full-Stack Jr
 <div align="center">
   <a href="https://github.com/luc4s-s">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luc4s-s&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
