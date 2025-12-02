@@ -5,7 +5,7 @@
   Construindo soluções com Java, Spring, Html, Css, JavaScript, React, JavaScript e SQL.
 </p> 
 
-🚀 Sobre mim
+<h2>🚀 Sobre mim <br/></h2>
 Sou um desenvolvedor em início de carreira focado em construir aplicações completas, eficientes e bem estruturadas.  
 Busco minha primeira oportunidade como **Desenvolvedor Júnior**, e utilizo meus projetos pessoais para evoluir diariamente.
 
